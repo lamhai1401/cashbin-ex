@@ -1,0 +1,1 @@
+{"buildTargets":["db","db-stop","nats","nats-stop","proto","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
